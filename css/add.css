@@ -1,0 +1,26 @@
+.top{
+margin-left: auto;
+}
+.add{
+margin-left: auto;
+width: fit-content;
+}
+.cont{
+    min-height: 700px;
+    
+}
+.footer{
+    vertical-align: bottom;
+    text-align: center;
+}
+.products{
+ height: 100%;
+ min-height: auto;
+}
+.items{
+    text-align: center;
+}
+.cards{
+    float: left;
+}
+
